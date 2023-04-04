@@ -18,7 +18,7 @@ Tailwind CSS for styling, and Prettier for code formatting.
 -   Run `npm install` to install dependencies
 -   Run `npm run dev` to start the development server
 
-Alternatively, this sample application is deployed at
+Alternatively, this sample application is deployed at https://languagequiz.z35.web.core.windows.net/
 
 # Testing
 
