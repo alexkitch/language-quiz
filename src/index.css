@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+    @apply bg-sky-100;
+}
+
+h1 {
+    @apply text-5xl font-bold;
+}
+
+h2 {
+    @apply uppercase font-bold;
+}
