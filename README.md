@@ -30,3 +30,5 @@ Alternatively, this sample application is deployed at
 This application was built relatively quickly and is, by no means, production ready. In particular, the `Activity` and `Round` components are larger and more complex than I'd like them to be - given a bit more time I'd like to break those down into smaller components and make them a bit more reusable. I'd also like to add more tests to cover the different flows.
 
 CSS styling is pretty basic and designed to conform to a basic wireframe, without much additional imagination. If styling was a bigger concern, it would be nice to build this out as a fancier responsive web app using Tailwind's breakpoints.
+
+I'm also using a static file as the API because of a CORS error with the provided API. This is probably pretty easily fixable - should just be a case of adding my local dev server to the CORS whitelist, but I don't have access to that unfortunately.
